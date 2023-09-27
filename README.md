@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 - [Merlin Li](https://github.com/wwxihan2)
 - [Zhiyi Zheng](https://github.com/Val001z)
-
+- [Steven Liu](https://github.com/stevenkhl446)
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
