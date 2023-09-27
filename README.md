@@ -5,6 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - [Merlin Li](https://github.com/wwxihan2)
+- [Zhiyi Zheng](https://github.com/Val001z)
 
 ## Stakeholders
 
