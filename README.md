@@ -58,7 +58,7 @@ Target End-User:
 
 7. As an NYU student, I want to view a gallery of recently found items within the NYU campus so that I can visually scan for my lost items.
 
-8.  As an NYU student. I want clear instructions on how to retrieve my item from CampusSafety once it's identified.
+8.  As an NYU student. I want clear instructions on how to retrieve my item from Campus Safety once it's identified.
 
 9. As an NYU student, l want to share my lost item report on NYU's student platforms or socia media groups to increase its visibility within the student community.
 
