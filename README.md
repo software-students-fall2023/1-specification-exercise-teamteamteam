@@ -50,23 +50,24 @@ Target End-User:
 
 3. As an NYU student, I want to view the geolocation of found items on an NYU campus mapso that I can determine where it was located.
 
-4. As an NYU student, I want a secure messaging feature to communicate with CampusSafety regarding my lost item so that I can get updates or arrange its collection.
+4. As an NYU student, I want a secure messaging feature to communicate with Campus Safety regarding my lost item so that I can get updates or arrange its collection.
 
-5. As an NYU student, I want to receive notifications if an item matching my lost item'sdescription is reported as found and is with Campus Safety.
+5. As an NYU student, I want to receive notifications if an item matching my lost item's description is reported as found and is with Campus Safety.
 
-6. As an NYU student, I want to drop off found items at Campus Safety, knowing they willmanage it securely and notify the owner.
+6. As an NYU student, I want to drop off found items at Campus Safety, knowing they will manage it securely and notify the owner.
 
-7. As an NYU student, I want to view a gallery of recently found items within the NYU campusso that I can visually scan for my lost items.
+7. As an NYU student, I want to view a gallery of recently found items within the NYU campus so that I can visually scan for my lost items.
 
 8.  As an NYU student. I want clear instructions on how to retrieve my item from CampusSafety once it's identified.
 
-9. As an NYU student, l want to share my lost item report on NYU's student platforms or sociamedia groups to increase its visibility within the student community.
+9. As an NYU student, l want to share my lost item report on NYU's student platforms or socia media groups to increase its visibility within the student community.
 
-10. As an NYU student, I want an intuitive interface that reflects NYU's branding and guides meseamlessly through the reporting and searching process.
+10. As an NYU student, I want an intuitive interface that reflects NYU's branding and guides me seamlessly through the reporting and searching process.
 
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+
 
 ## Clickable Prototype
 
