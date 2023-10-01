@@ -62,7 +62,7 @@ Target End-User:
 
 9. As an NYU student, l want to share my lost item report on NYU's student platforms or sociamedia groups to increase its visibility within the student community.
 
-10.As an NYU student, I want an intuitive interface that reflects NYU's branding and guides meseamlessly through the reporting and searching process.
+10. As an NYU student, I want an intuitive interface that reflects NYU's branding and guides meseamlessly through the reporting and searching process.
 
 ## Activity Diagrams
 
