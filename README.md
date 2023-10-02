@@ -71,8 +71,6 @@ Target End-User:
 1. As an NYU student, I want to report my lost item with detailed descriptions and photos so that others can easily identify it.
 2. As an NYU student, I want to view found items based on specific criteria like item type, color, and location within the campus so that I can quickly locate my belongings.
 
-/Users/valery/Downloads/Activity Diagram.png
-
 ## Clickable Prototype
 
-[Figma Prototype](https://www.figma.com/proto/zFKDayKXdGkQqMmn5soq9X/Prototype?page-id=0%3A1&type=design&node-id=1-2&viewport=727%2C554%2C0.36&t=rEiYVCw5Oe2qunI4-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design)
+See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
