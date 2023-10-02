@@ -76,4 +76,4 @@ Target End-User:
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[FigmaPrototype](https://www.figma.com/proto/zFKDayKXdGkQqMmn5soq9X/Prototype?page-id=0%3A1&type=design&node-id=1-2&viewport=727%2C554%2C0.36&t=rEiYVCw5Oe2qunI4-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design)
