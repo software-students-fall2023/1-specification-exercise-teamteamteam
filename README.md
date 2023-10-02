@@ -11,7 +11,7 @@ A little exercise to get started with the specification phase of the software de
   
 ## Stakeholders
 
-Stakeholder:
+Stakeholder:Nadir Muhammad
 
 Goals/Needs:
 1. A dedicated platform for NYU students to report and search for lost items.
