@@ -36,10 +36,10 @@ Frustrations:
 
 ## Ideation
 Concept for Mobile App:
--"NYU Lost&Found" -  A mobile application tailored for NYU students to report and lost lost items within the campus
+-"NYU Lost&Found" - A mobile application tailored for NYU students to report and lost lost items within the campus
 vicinity, incorporating photo and geolocation features and a centralizec collection point at campus safety.The app
 utilizes the school's vast student's population and student's awareness to maximize efficiency of the Lost&Found
-process,creating a safer and more agile environment. 
+process, creating a safer and more agile environment. 
 
 Target End-User:
 -NYU students who have lost personal items on campus or nearby areas and those who have found items and wish to return them.
@@ -48,7 +48,7 @@ Target End-User:
 
 1. As an NYU student, I want to report my lost item with detailed descriptions and photos so that others can easily identify it.
 
-2. As an NYU student, I want to search for found items based on specific criteria like itemtype, color, and location within the campus so that I can quickly locate my belongings.
+2. As an NYU student, I want to search for found items based on specific criteria like item type, color, and location within the campus so that I can quickly locate my belongings.
 
 3. As an NYU student, I want to view the geolocation of found items on an NYU campus mapso that I can determine where it was located.
 
@@ -69,7 +69,7 @@ Target End-User:
 ## Activity Diagrams
 
 1. As an NYU student, I want to report my lost item with detailed descriptions and photos so that others can easily identify it.
-2. As an NYU student, I want to view found items based on specific criteria like itemtype, color, and location within the campus so that I can quickly locate my belongings.
+2. As an NYU student, I want to view found items based on specific criteria like item type, color, and location within the campus so that I can quickly locate my belongings.
 
 /Users/valery/Downloads/Activity Diagram.png
 
