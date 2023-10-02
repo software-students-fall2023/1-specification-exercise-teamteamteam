@@ -72,7 +72,7 @@ Target End-User:
 2. As an NYU student, I want to view found items based on specific criteria like item type, color, and location within the campus so that I can quickly locate my belongings.
 
 ![Alt Text](ActivityDiagram.png)
-
+![Alt Text](ActivityDiagram2.png)
 
 ## Clickable Prototype
 
