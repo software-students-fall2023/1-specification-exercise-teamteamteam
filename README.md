@@ -66,7 +66,7 @@ Target End-User:
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![Activity Diagram](Untitled Diagram.drawio)
 
 
 ## Clickable Prototype
