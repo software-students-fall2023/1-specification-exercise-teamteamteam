@@ -71,7 +71,7 @@ Target End-User:
 1. As an NYU student, I want to report my lost item with detailed descriptions and photos so that others can easily identify it.
 2. As an NYU student, I want to view found items based on specific criteria like item type, color, and location within the campus so that I can quickly locate my belongings.
 
-![Alt Text](/Users/liukaihsin/SoftWEproject1)
+![Alt Text](ActivityDiagram.png)
 
 
 ## Clickable Prototype
