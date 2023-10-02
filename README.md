@@ -44,9 +44,9 @@ Target End-User:
 
 ## User Requirements
 
-1. As an NYU student, I want to report my lost item with detailed descriptions and photos sothat others can easily identify it.
+1. As an NYU student, I want to report my lost item with detailed descriptions and photos so that others can easily identify it.
 
-2. As an NYU student, I want to search for found items based on specific criteria like itemtype, color, and location within the campus so that I can quickly locate my belongings
+2. As an NYU student, I want to search for found items based on specific criteria like itemtype, color, and location within the campus so that I can quickly locate my belongings.
 
 3. As an NYU student, I want to view the geolocation of found items on an NYU campus mapso that I can determine where it was located.
 
@@ -66,8 +66,10 @@ Target End-User:
 
 ## Activity Diagrams
 
-![Activity Diagram](Untitled Diagram.drawio)
+1. As an NYU student, I want to report my lost item with detailed descriptions and photos so that others can easily identify it.
+2. As an NYU student, I want to view found items based on specific criteria like itemtype, color, and location within the campus so that I can quickly locate my belongings.
 
+/Users/valery/Downloads/Activity Diagram.png
 
 ## Clickable Prototype
 
